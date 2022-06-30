@@ -65,7 +65,6 @@ In `workflow` file, can change lanauges and fetch schedule default `schedule` is
 - https://github.com/erikvillegas/itunes-connect-slack
 - https://github.com/rogerluan/app-store-connect-notifier
 
-
 # Contribution 
 - Feel free to contribution for this project. 
 - Every `PR`, `Issues` is wellcome. 🤩
