@@ -20,7 +20,6 @@ For using this bot, Just `fork` this repository is Super Easy
 # Preview 🤖
 <img src="./.github/images/preview.png" width="70%">
 
-
 # Usage 👨🏻‍💻
 
 ## 1. Generating Tokens for API Requests 
